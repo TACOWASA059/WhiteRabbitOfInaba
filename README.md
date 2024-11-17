@@ -11,6 +11,11 @@
 - minecraft 1.16.5
 - forge 36.2.39
 
+## 設定
+- server.properties
+```
+allow-flight=true
+```
 
 ## function
 - Mod that allows you to ride on LivingEntity
@@ -19,3 +24,9 @@
 ## Environment
 - minecraft 1.16.5
 - forge 36.2.39
+
+## Setting
+- server.properties
+```
+allow-flight=true
+```
